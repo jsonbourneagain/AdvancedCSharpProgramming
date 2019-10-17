@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEBookReader", "MyEBookRea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQDataProcessingWithCancellation", "PLINQDataProcessingWithCancellation\PLINQDataProcessingWithCancellation.csproj", "{88A41EA8-3B5B-41DF-A678-8196EF1269D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{98E809D9-5C53-408E-860A-011E865DFE75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E809D9-5C53-408E-860A-011E865DFE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E809D9-5C53-408E-860A-011E865DFE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E809D9-5C53-408E-860A-011E865DFE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E809D9-5C53-408E-860A-011E865DFE75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
