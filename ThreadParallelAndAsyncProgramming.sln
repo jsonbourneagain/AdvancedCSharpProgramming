@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool", "ThreadPool\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParallelismWithForEach", "DataParallelismWithForEach.\DataParallelismWithForEach.csproj", "{CFB578E9-922A-4610-ABDA-E16695DD082B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEBookReader", "MyEBookReader\MyEBookReader.csproj", "{BC2A19D6-FA67-44AA-A8EC-0EFBD0050547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQDataProcessingWithCancellation", "PLINQDataProcessingWithCancellation\PLINQDataProcessingWithCancellation.csproj", "{88A41EA8-3B5B-41DF-A678-8196EF1269D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{CFB578E9-922A-4610-ABDA-E16695DD082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB578E9-922A-4610-ABDA-E16695DD082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB578E9-922A-4610-ABDA-E16695DD082B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2A19D6-FA67-44AA-A8EC-0EFBD0050547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2A19D6-FA67-44AA-A8EC-0EFBD0050547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2A19D6-FA67-44AA-A8EC-0EFBD0050547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2A19D6-FA67-44AA-A8EC-0EFBD0050547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A41EA8-3B5B-41DF-A678-8196EF1269D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
